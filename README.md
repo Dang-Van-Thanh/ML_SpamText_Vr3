@@ -1,4 +1,4 @@
-# ML_SpamText_Vr3
+# ML_SpamText_Vr3: các cập nhật cần thiết
 # 1
 ## Vector hoá văn bản Sinh viên thử nghiệm các phương pháp vector hoá văn bản sau, so sánh và lựa chọn phương pháp cho hiệu suất tốt nhất
 ## • Bag-of-Words (BoW)
